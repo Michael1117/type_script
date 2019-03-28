@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Michael1117/type_script#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.123",
+    "lodash": "^4.17.11",
     "ts-loader": "^5.3.3",
     "typescript": "^3.3.4000",
     "webpack": "^4.29.6",
