@@ -4,7 +4,7 @@
   "description": "typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Michael1117/type_script#readme",
   "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.4000",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
   }
